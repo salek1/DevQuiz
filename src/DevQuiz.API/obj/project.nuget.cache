@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FYDpw1ryhpKjl/Bv8LeJ/k4MGZFDMbxYKnkbNsG5y6euqRA+/AOKW9csskU7xt1mEFyhbTipaeN1hqF3tDGeqg==",
+  "success": true,
+  "projectFilePath": "F:\\PROGRAMAÇÃO\\Projetos\\DevQuiz\\src\\DevQuiz.API\\DevQuiz.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\izaak\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\izaak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\izaak\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\izaak\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\izaak\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\izaak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\izaak\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
