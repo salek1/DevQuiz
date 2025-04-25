@@ -1,0 +1,42 @@
+# -------------------------
+# .NET / Visual Studio
+# -------------------------
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Configs locais
+*.env
+*.launch.json
+
+# Logs
+*.log
+
+# Auto-gerado por VS
+Generated_Code/
+
+# -------------------------
+# Docker
+# -------------------------
+**/publish/
+**/Dockerfile.*
+
+# Docker volumes (opcional, se for salvar algo local)
+devquiz-data/
+
+# -------------------------
+# Sistema operacional
+# -------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
